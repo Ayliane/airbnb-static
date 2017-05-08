@@ -1,8 +1,10 @@
-.feature h2 {
-  font-size: 20px;
-  margin-bottom: 10px;
+.feature {
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  img {
+    width: 100px;
+  }
 }
 
-.feature img {
-  width: 100px;
-}
